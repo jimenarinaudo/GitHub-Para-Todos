@@ -1,15 +1,15 @@
-# Modificame
+# Bienvenidos
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+###Esto es una prueba
 
-> Es nuestro arenero personal
+> Github para todos y todas
 
-Pueden:
+Para que lo puedo utilizar....
 
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+- para compartir mis planificaciones
+- mis ideas
+- mis recursos
+- [Este es mi correo personal](jimenarinaudo@gmail.com)
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](http://www.europamundo.com/contactar.aspx?paisID=1 "Este texto aparece cuando el mouse está sobre la imagen")
 
